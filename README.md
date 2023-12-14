@@ -45,11 +45,11 @@ Undergraduate – Informatics Engineering
   - [Performance Testing](https://storage.googleapis.com/myskill-v2-certificates/topic-52vifOB4NlCSYgudweQk/Imb2l9qM1xStLRrAUwa7fpaE4OI3-6RnfilrPBrSeWQG9ZkcW.pdf)  -MySkill
 
 ## Courses
-  - [Data Analytics by RevoU]
-  - [Data Science by Rakamin]
-  - [Data Analyst by DQLab]
-  - [Quality Assurance by MySkill]
-  - [Quality Assurance by Sanbercode]
+  - Data Analytics by RevoU
+  - Data Science by Rakamin
+  - Data Analyst by DQLab
+  - Quality Assurance by MySkill
+  - Quality Assurance by Sanbercode
 
 ## Skills training 
   - [Data Analyst Project: Business Decision Research](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2EIFHBM)  -DQLab
